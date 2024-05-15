@@ -1,0 +1,3 @@
+compiling in C with clang
+
+clang -o [newfilename] [filename.c]
